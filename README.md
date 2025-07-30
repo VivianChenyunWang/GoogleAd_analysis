@@ -1,4 +1,5 @@
 # From Grammar to Geography: A Computational Analysis of Language Tool Ads Across Countries
 
 With the growing demand for language tools across the globe, companies like Grammarly and DeepL have significantly expanded their digital advertising footprints. However, their ads often vary across countries—in content, format, and visibility. These variations are not only shaped by marketing strategies but may also reflect algorithmic preferences and cultural adaptation.
+
 This project leverages data from the Google Ads Transparency Center to systematically collect and analyze ad creatives for Grammarly and DeepL across 14 countries and 3 ad formats (text, image, video). By comparing regional differences and using OCR to extract image-based ad content, we aim to explore how these companies tailor their messaging to local markets and whether ad recommendation algorithms exhibit geographical biases. Ultimately, this project contributes to a better understanding of the opaque mechanisms behind targeted advertising.
